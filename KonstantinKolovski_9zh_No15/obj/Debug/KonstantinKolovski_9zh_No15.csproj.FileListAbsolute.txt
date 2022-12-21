@@ -1,0 +1,7 @@
+E:\9j Konstantin\KonstantinKolovski_9zh_No15\bin\Debug\KonstantinKolovski_9zh_No15.exe.config
+E:\9j Konstantin\KonstantinKolovski_9zh_No15\bin\Debug\KonstantinKolovski_9zh_No15.exe
+E:\9j Konstantin\KonstantinKolovski_9zh_No15\bin\Debug\KonstantinKolovski_9zh_No15.pdb
+E:\9j Konstantin\KonstantinKolovski_9zh_No15\obj\Debug\KonstantinKolovski_9zh_No15.csproj.AssemblyReference.cache
+E:\9j Konstantin\KonstantinKolovski_9zh_No15\obj\Debug\KonstantinKolovski_9zh_No15.csproj.CoreCompileInputs.cache
+E:\9j Konstantin\KonstantinKolovski_9zh_No15\obj\Debug\KonstantinKolovski_9zh_No15.exe
+E:\9j Konstantin\KonstantinKolovski_9zh_No15\obj\Debug\KonstantinKolovski_9zh_No15.pdb
